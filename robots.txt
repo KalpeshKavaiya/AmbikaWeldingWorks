@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /private/   # Specify any directories you want to disallow
+Sitemap: https://www.example.com/sitemap.xml   # Add your sitemap URL
