@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function () {
     const projectsData = [
-        { title: 'Project 1', image: 'images/project1.jpg', description: 'Description of project 1.' },
-        { title: 'Project 2', image: 'images/project2.jpg', description: 'Description of project 2.' },
-        { title: 'Project 3', image: 'images/project3.jpg', description: 'Description of project 3.' },
-        { title: 'Project 4', image: 'images/project4.jpg', description: 'Description of project 4.' },
+        { title: 'Project 1', image: 'images/project1.webp', description: 'Description of project 1.' },
+        { title: 'Project 2', image: 'images/project2.webp', description: 'Description of project 2.' },
+        { title: 'Project 3', image: 'images/project3.webp', description: 'Description of project 3.' },
+        { title: 'Project 4', image: 'images/project4.webp', description: 'Description of project 4.' },
         { title: 'Project 5', image: 'images/project5.jpg', description: 'Description of project 5.' },
         { title: 'Project 6', image: 'images/project6.jpg', description: 'Description of project 6.' },
         { title: 'Project 7', image: 'images/project7.jpg', description: 'Description of project 7.' },
