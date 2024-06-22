@@ -1,0 +1,29 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ambica Fabrication Works",
+    "legalName": "Ambica Fabrication Works",
+    "description": "Premier fabrication in Rajkot, Gujarat. Custom gates, stairs, and elevations. Experience quality craftsmanship. Contact us!",
+    "url": "https://kalpeshkavaiya.github.io/AmbikaWeldingWorks/",
+    "logo": "https://www.yourwebsite.com/images/logo.png",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Mavdi",
+      "addressLocality": "Rajkot",
+      "addressRegion": "Gujarat",
+      "postalCode": "360004",
+      "addressCountry": "IN"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+91-9825562537",
+      "contactType": "customer service"
+    },
+    "sameAs": [
+      "https://www.facebook.com/YourPage",
+      "https://twitter.com/YourPage",
+      "https://www.linkedin.com/in/YourPage",
+      "https://www.instagram.com/YourPage"
+    ]
+  }
+  
