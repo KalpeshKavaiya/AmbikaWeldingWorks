@@ -30,6 +30,13 @@
     <!-- Schema.org Schema -->
     <script type="application/ld+json" src="schema/localbusiness.json"></script>
     <script type="application/ld+json" src="schema/organization.json"></script>
+    <!-- Dynamic Canonical Tag -->
+    <script>
+        var canonicalLink = document.createElement('link');
+        canonicalLink.rel = 'canonical';
+        canonicalLink.href = window.location.href;
+        document.head.appendChild(canonicalLink);
+    </script>
 </head>
 
 <body>
